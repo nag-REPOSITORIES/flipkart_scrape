@@ -81,3 +81,6 @@ products_df = pd.DataFrame({'shoes':shoes_,'ratings':ratings_,'prices':prices_,'
 products_df.to_csv('flipkart_shoes.csv',index = True) # saving the scraped items into a csv.file
 print(products_df)
 print(d_prices)
+
+###adding the code
+
